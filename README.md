@@ -26,6 +26,10 @@ Which calls this public method in the View Model of the page if the input is det
 This adds the selected quantity of the average of that selected animal type to the observalbe collection which is displayed within 
 the scrollable display area in the center of the page.
 
+There are also two similar methods that add custom livestock from the second / lower form.
+The main differences are that, instead of using values of the average of the selected stock type, it uses values defined by the user,
+and requires input validation for each of those feilds.
+
 The average livestock values are determined by this method:
 
 ![findAvepng](https://github.com/c99999991/PortfolioPiece1LivestockApp/assets/142708292/d9cb6ffd-7f4f-475a-950c-f7f4ff455b17)

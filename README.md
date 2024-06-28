@@ -30,5 +30,8 @@ The average livestock values are determined by this method:
 
 ![findAvepng](https://github.com/c99999991/PortfolioPiece1LivestockApp/assets/142708292/d9cb6ffd-7f4f-475a-950c-f7f4ff455b17)
 
+The following method calculates the totals, displayed at the bottom of the page:
+
+![calcTot](https://github.com/c99999991/PortfolioPiece1LivestockApp/assets/142708292/97e35bc3-05bd-4a51-aed3-21459a52c86b)
 
 
